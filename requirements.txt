@@ -1,0 +1,8 @@
+# CLI dependencies
+requests>=2.31.0
+folium>=0.15.0
+rich>=13.0.0
+
+# Server dependencies (Flask + Gunicorn for Heroku)
+flask>=3.0.0
+gunicorn>=21.0.0
